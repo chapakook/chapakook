@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 About me 🐾 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 💻 I'm a backend developer from Korea.</li></br></li>😊 I'm currently developing using Mendix.</li></br></li>🚀 I'm learning more about Go and Kotlin.</li></br></li>🎯 In the future, I hope to Devops </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 💻 I'm a backend developer from Korea.</li></br></br></li>😊 I'm currently developing using Mendix.</li></br></br></li>🚀 I'm learning more about Go and Kotlin.</li></br></br></li>🎯 In the future, I hope to Devops </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
