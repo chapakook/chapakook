@@ -1,5 +1,4 @@
 <div align= "center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
     <div align="">
         <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
         <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -25,9 +24,8 @@
         <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
         <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
     </div>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </div>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -50,8 +48,6 @@
             In the future, I hope to Devops
     </div> 
 </div>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -88,25 +84,21 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="20">
             Contact me
     </h2>
     <div align= "center">
-        <a href=https://chapakook.github.io>
-            <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" />
-        </a>
-        <br/>
-        <a href=mailto:chapakook96@gmail.com>
-            <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="40" />
-        </a>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; height: 45px; width: 300px; display: flex; flex-direction: row; justify-content: center; align-items: center;">
+            <a href=https://chapakook.github.io>
+                <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" />
+            </a>
+            <a href=mailto:chapakook96@gmail.com>
+                <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="40" />
+            </a>
     </div>
 </div>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
