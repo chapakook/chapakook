@@ -1,3 +1,4 @@
+<!-- Top -->
 <div align= "center">
     <div align="">
         <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -29,6 +30,7 @@
 <br/>
 <br/>
 <br/>
+<!-- About me -->
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
@@ -51,6 +53,7 @@
 <br/>
 <br/>
 <br/>
+<!-- Tech Stacks -->
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
@@ -84,7 +87,8 @@
 <br/>
 <br/>
 <br/>
-<div align= "center">
+<!-- Contact me -->
+<!-- <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="20">
             Contact me
@@ -101,7 +105,8 @@
 </div>
 <br/>
 <br/>
-<br/>
+<br/> -->
+<!-- Stats -->
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20">
