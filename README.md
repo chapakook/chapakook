@@ -58,39 +58,34 @@
             Tech Stacks
     </h2>
     <div style="margin: 0 auto; text-align: left;" align= "left">
-        <div>
-            <span style="display: none;">programing</span>
+        <div id="programing">
             <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
             <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
             <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40">
             <img src="https://i.namu.wiki/i/9_iH996saikwKeGxuY82D6PZnFGW15T8mTN5QBIN3jJRT6Chm609ctLTHeHNTkVQ7-m4i3vw7KgrM4q2lo_CNhmPChHaDKNzvHpOOCM3H8GanLsib-9IbCc__ewh5Ta1S8UwCcrnOCdBG1MRrKwQdw.svg" width="25">
             <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="60">
         </div>
-        <div>
-            <span style="display:none;">framework</span>
+        <div id="framework">
             <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40">
             <img src="https://spring.io/img/spring.svg" width="40">
             <img src="https://spring.io/img/projects/spring-boot.svg" width="45">
         </div>
-        <div>
-            <span style="display:none;">infrastructure</span>
+        <div id="infrastructure">
             <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60">
             <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
             <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
             <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
         </div>
-        <div>
-            <span style="display:none;">database</span>
+        <div id="database">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="75">
             <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&
             logoColor=white">
         </div>
-        <div>
+        <div id="etc">
             <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40">
             <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40">
-            <span style="display:none;">etc</span>
             <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
             <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40">
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
