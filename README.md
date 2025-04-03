@@ -46,7 +46,7 @@
             I'm learning more about Go and Kotlin.
         </li></br></li>
         <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-            In the future, I hope to Devops
+            In the future, I hope to be rich
     </div> 
 </div>
 <br/>
