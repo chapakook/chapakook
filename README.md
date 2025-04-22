@@ -1,17 +1,12 @@
 <!-- Top -->
 <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-        <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-            Git Animals
-    </h2>
-        <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chapakook&utm_content=farm">
-            <img
-                src="https://render.gitanimals.org/farms/chapakook"
-                width="600"
-                height="300"
-            />
-        </a>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chapakook&utm_content=farm">
+        <img
+            src="https://render.gitanimals.org/farms/chapakook"
+            width="600"
+            height="300"
+        />
+    </a>
 </a>
 </div>
 <br/>
