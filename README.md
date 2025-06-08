@@ -40,10 +40,10 @@
     </h2>
     <div style="margin: 0 auto; text-align: left;" align= "left">
         <div id="programing">
+            <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="50">
             <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
             <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
             <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40">
-            <img src="https://i.namu.wiki/i/9_iH996saikwKeGxuY82D6PZnFGW15T8mTN5QBIN3jJRT6Chm609ctLTHeHNTkVQ7-m4i3vw7KgrM4q2lo_CNhmPChHaDKNzvHpOOCM3H8GanLsib-9IbCc__ewh5Ta1S8UwCcrnOCdBG1MRrKwQdw.svg" width="25">
             <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="60">
         </div>
         <div id="framework">
