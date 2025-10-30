@@ -100,7 +100,10 @@
             Stats
     </h2>
     <div align= "left"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=chapakook&show_icons=true&theme=transparent&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chapakook&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=chapakook&show_icons=true&theme=transparent&bg_color=180,000000,&title_color=000000&text_color=000000"/> -->
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chapakook&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>  -->
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chapakook&theme=default"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chapakook&theme=default"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chapakook&theme=default"/>
     </div> 
 </div>
