@@ -54,13 +54,13 @@
     <div style="margin: 0 auto; text-align: left;" align= "left">
         <div id="programing">
             <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="50">
-            <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
-            <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
-            <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40">
-            <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="60">
+            <!-- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"> -->
+            <!-- <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"> -->
+            <!-- <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"> -->
+            <!-- <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="60"> -->
         </div>
         <div id="framework">
-            <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40">
+            <!-- <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"> -->
             <img src="https://spring.io/img/spring.svg" width="40">
             <img src="https://spring.io/img/projects/spring-boot.svg" width="45">
         </div>
@@ -71,9 +71,8 @@
         </div>
         <div id="database">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="75">
-            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&
-            logoColor=white">
+            <!-- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> -->
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         </div>
         <div id="etc">
             <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40">
